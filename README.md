@@ -53,7 +53,7 @@ The datasets directory structure should like this:
 │   │   └── camera
 │   │   ├── radar_data.h5
 │   │   └── scenes.json
-   ...
+......
 │   └── sequences.json
 ├── License.md
 └── Readme.md
